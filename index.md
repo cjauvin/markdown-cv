@@ -1,91 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christian Jauvin
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christian Jauvin
+Independent developer, consultant and researcher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="mailto:cjauvin@gmail.com">cjauvin@gmail.com</a> |
+    <a href="https://cjauvin.github.io">Homepage</a> |
+    <a href="https://github.com/cjauvin">GitHub</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Contracting with startups, SMEs and researchers in various contexts, helping them to solve challenging problems.
 
-### Specialized in
+## Areas of expertise
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+General problem solving and programming, machine learning, data science and visualization, web applications, databases, GIS.
 
+## Technical skills
 
-### Research interests
+__Python__ (and a sizable part of its ecosystem), __JavaScript__ (Ext JS and React), Go, R, __PostgreSQL__, Docker, Kubernetes, AWS, PyTorch, Tensorflow.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Past occupations
 
+`2018`
+__Element AI__: Research Developer
+
+`2016-2017`
+__Ubisoft Montreal__: Online Developer
+
+`2013-2015`
+__WhatRunsWhere__: Data Scientist / Developer
+
+`2006-2013`
+__McGill Surveillance Lab__: Research Developer
+
+## Notable projects and contracts
+
+__Vinum__: Web application and database to manage the internal operations of a wine importing company.
+
+__PypeTree__: Tool with an innovative UI to assist with the 3D reconstruction of LIDAR scanned botanical trees.
+
+__Dracones__: Web mapping and analysis add-on to an existing public health database.
+
+__Road address correction and geocoding__: Custom algorithm for the correction and geocoding of a road accident database.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2001-2003`
+__M.Sc in Computer Science__, UofM (Machine Learning with Yoshua Bengio)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1998-2001`
+__B.Sc in Computer Science__, UofM
 
-- Sizar
+## Online Courses (Coursera)
 
-`1667 - death`
-__Trinity College, Cambridge__
+Computer Networks, Neural Networks and Deep Learning, Discrete Optimization, Cryptography I, Artificial Intelligence.
 
-- Fellow
+## Notable Publications
 
+`2014`
+PypeTree: a tool for reconstructing tree perennial tissues from point clouds_
 
+`2010`
+Residential address errors in public health surveillance data: a description and analysis of the impact on geocoding
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2003`
+A neural probabilistic language model
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March 2019 -->
