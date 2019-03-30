@@ -13,7 +13,7 @@ Independent developer, consultant and researcher.
 
 ## Currently
 
-Contracting with startups, SMEs and researchers in various contexts, helping them to solve challenging problems.
+Contracting with startups, businesses and researchers in various contexts, helping them to solve challenging problems.
 
 ## Areas of expertise
 
@@ -62,7 +62,7 @@ Computer Networks, Neural Networks and Deep Learning, Discrete Optimization, Cry
 ## Notable Publications
 
 `2014`
-PypeTree: a tool for reconstructing tree perennial tissues from point clouds_
+PypeTree: a tool for reconstructing tree perennial tissues from point clouds
 
 `2010`
 Residential address errors in public health surveillance data: a description and analysis of the impact on geocoding
