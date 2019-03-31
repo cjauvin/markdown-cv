@@ -21,7 +21,7 @@ General problem solving and programming, machine learning, data science and visu
 
 ## Technical skills
 
-__Python__ (and a sizable part of its ecosystem), __JavaScript__ (Ext JS and React), Go, R, __PostgreSQL__, Docker, Kubernetes, AWS, PyTorch, Tensorflow.
+__Python__ (and a sizable part of its ecosystem and culture), __JavaScript__ (Ext JS and React), Go, R, __PostgreSQL__, Docker, Kubernetes, AWS, PyTorch, Tensorflow.
 
 ## Past occupations
 
@@ -43,7 +43,7 @@ __Vinum__: Web application and database to manage the internal operations of a w
 
 __PypeTree__: Tool with an innovative UI to assist with the 3D reconstruction of LIDAR scanned botanical trees.
 
-__Dracones__: Web mapping and analysis add-on to an existing public health database.
+__Dracones__: Web mapping and spatial analysis add-on to an existing public health database.
 
 __Road address correction and geocoding__: Custom algorithm for the correction and geocoding of a road accident database.
 
