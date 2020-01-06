@@ -21,7 +21,7 @@ General problem solving and programming, machine learning, data science and visu
 
 ## Technical Skills
 
-__Python__ (and a sizable part of its ecosystem and culture), __JavaScript__ (Ext JS and React), __PostgreSQL__ (and PostGIS), Docker. Some experience with: Go, R, Kubernetes, AWS, PyTorch, Tensorflow.
+__Python__ (and a sizable part of its ecosystem and culture), __JavaScript__ (Ext JS and React), __PostgreSQL__ (and PostGIS), Docker, git. Some experience with: Go, R, PHP (Laravel), Kubernetes, AWS, PyTorch, Tensorflow.
 
 ## Past Occupations
 

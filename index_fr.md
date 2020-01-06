@@ -21,7 +21,7 @@ Programmation et résolution générale de problèmes techniques, machine learni
 
 ## Compétences techniques
 
-__Python__ (ainsi qu'une partie importante de son écosystème et de sa culture), __JavaScript__ (Ext JS et React), __PostgreSQL__ (et PostGIS), Docker. J'ai aussi déjà travaillé avec : Go, R, Kubernetes, AWS, PyTorch, Tensorflow.
+__Python__ (ainsi qu'une partie importante de son écosystème et de sa culture), __JavaScript__ (Ext JS et React), __PostgreSQL__ (et PostGIS), Docker, git. J'ai aussi déjà travaillé avec : Go, R, PHP (Laravel), Kubernetes, AWS, PyTorch, Tensorflow.
 
 ## Emplois précédents
 
