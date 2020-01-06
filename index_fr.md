@@ -21,7 +21,7 @@ Programmation et résolution générale de problèmes techniques, machine learni
 
 ## Compétences techniques
 
-__Python__ (ainsi qu'une partie importante de son écosystème et de sa culture), __JavaScript__ (Ext JS et React), Go, R, __PostgreSQL__, Docker, Kubernetes, AWS, PyTorch, Tensorflow.
+__Python__ (ainsi qu'une partie importante de son écosystème et de sa culture), __JavaScript__ (Ext JS et React), __PostgreSQL__ (et PostGIS), Docker. J'ai aussi déjà travaillé avec : Go, R, Kubernetes, AWS, PyTorch, Tensorflow.
 
 ## Emplois précédents
 
@@ -39,6 +39,10 @@ __McGill Surveillance Lab__: Développeur de recherche
 
 ## Projets et contrats notables
 
+`en cours`
+__FieldApex__: Application web/SIG pour la gestion et le calcul de la dose optimale de fertilisant à mettre dans un champ.
+
+`en cours`
 __Vinum__: Application web et base de données pour gérer les opérations d'une compagnie d'importation privée de vin.
 
 __PypeTree__: Un outil avec un UI innovant pour la reconstruction 3D d'arbres à partir de données LIDAR.
@@ -55,22 +59,22 @@ __M.Sc en informatique__, UdeM (machine learning avec Yoshua Bengio)
 `1998-2001`
 __B.Sc en informatique__, UdeM
 
-## Cours en ligne (Coursera)
+## Cours en ligne
 
-Computer Networks, Neural Networks and Deep Learning, Discrete Optimization, Cryptography I, Artificial Intelligence.
+Coursera : Computer Networks, Neural Networks and Deep Learning, Discrete Optimization, Cryptography I, Artificial Intelligence.
 
 ## Publications notables
 
 `2014`
-PypeTree: a tool for reconstructing tree perennial tissues from point clouds
+Pypetree: A Tool for Reconstructing Tree Perennial Tissues from Point Clouds
 
 `2010`
-Residential address errors in public health surveillance data: a description and analysis of the impact on geocoding
+Residential Address Errors in Public Health Surveillance Data: A Description and Analysis of the Impact on Geocoding
 
 `2003`
-A neural probabilistic language model
+A Neural Probabilistic Language Model (avec Yoshua Bengio)
 
 
 <!-- ### Footer
 
-Last updated: March 2019 -->
+Last updated: January 2020 -->

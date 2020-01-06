@@ -15,15 +15,15 @@ Independent developer, consultant and researcher.
 
 Contracting with startups, businesses and researchers in various contexts, helping them to solve challenging problems.
 
-## Areas of expertise
+## Areas of Expertise
 
 General problem solving and programming, machine learning, data science and visualization, web applications, databases, GIS.
 
-## Technical skills
+## Technical Skills
 
-__Python__ (and a sizable part of its ecosystem and culture), __JavaScript__ (Ext JS and React), Go, R, __PostgreSQL__, Docker, Kubernetes, AWS, PyTorch, Tensorflow.
+__Python__ (and a sizable part of its ecosystem and culture), __JavaScript__ (Ext JS and React), __PostgreSQL__ (and PostGIS), Docker. Some experience with: Go, R, Kubernetes, AWS, PyTorch, Tensorflow.
 
-## Past occupations
+## Past Occupations
 
 `2018`
 __Element AI__: Research Developer
@@ -37,8 +37,12 @@ __WhatRunsWhere__: Data Scientist / Developer
 `2006-2013`
 __McGill Surveillance Lab__: Research Developer
 
-## Notable projects and contracts
+## Notable Projects and Contracts
 
+`current`
+__FieldApex__: Web/GIS application to manage and compute the optimal amount of fertilizer for a field.
+
+`current`
 __Vinum__: Web application and database to manage the internal operations of a wine importing company.
 
 __PypeTree__: Tool with an innovative UI to assist with the 3D reconstruction of LIDAR scanned botanical trees.
@@ -55,22 +59,22 @@ __M.Sc in Computer Science__, UofM (Machine Learning with Yoshua Bengio)
 `1998-2001`
 __B.Sc in Computer Science__, UofM
 
-## Online Courses (Coursera)
+## Online Courses
 
-Computer Networks, Neural Networks and Deep Learning, Discrete Optimization, Cryptography I, Artificial Intelligence.
+Coursera: Computer Networks, Neural Networks and Deep Learning, Discrete Optimization, Cryptography I, Artificial Intelligence.
 
 ## Notable Publications
 
 `2014`
-PypeTree: a tool for reconstructing tree perennial tissues from point clouds
+Pypetree: A Tool for Reconstructing Tree Perennial Tissues from Point Clouds
 
 `2010`
-Residential address errors in public health surveillance data: a description and analysis of the impact on geocoding
+Residential Address Errors in Public Health Surveillance Data: A Description and Analysis of the Impact on Geocoding
 
 `2003`
-A neural probabilistic language model
+A Neural Probabilistic Language Model (with Yoshua Bengio)
 
 
 <!-- ### Footer
 
-Last updated: March 2019 -->
+Last updated: January 2020 -->
